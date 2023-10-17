@@ -1,0 +1,15 @@
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\bin\Debug\net6.0\Examgrade.exe
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\bin\Debug\net6.0\Examgrade.deps.json
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\bin\Debug\net6.0\Examgrade.runtimeconfig.json
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\bin\Debug\net6.0\Examgrade.dll
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\bin\Debug\net6.0\Examgrade.pdb
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.csproj.AssemblyReference.cache
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.AssemblyInfoInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.AssemblyInfo.cs
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.csproj.CoreCompileInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.dll
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\refint\Examgrade.dll
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.pdb
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\Examgrade.genruntimeconfig.cache
+C:\Users\ACTIVE\Desktop\aditi\Examgrade\Examgrade\obj\Debug\net6.0\ref\Examgrade.dll

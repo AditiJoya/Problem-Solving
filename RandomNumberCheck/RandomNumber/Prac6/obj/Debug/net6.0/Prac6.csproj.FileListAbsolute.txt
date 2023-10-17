@@ -1,0 +1,15 @@
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\bin\Debug\net6.0\Prac6.exe
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\bin\Debug\net6.0\Prac6.deps.json
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\bin\Debug\net6.0\Prac6.runtimeconfig.json
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\bin\Debug\net6.0\Prac6.dll
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\bin\Debug\net6.0\Prac6.pdb
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.csproj.AssemblyReference.cache
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.AssemblyInfoInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.AssemblyInfo.cs
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.csproj.CoreCompileInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.dll
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\refint\Prac6.dll
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.pdb
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\Prac6.genruntimeconfig.cache
+C:\Users\ACTIVE\Desktop\aditi\Prac6\Prac6\obj\Debug\net6.0\ref\Prac6.dll

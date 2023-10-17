@@ -1,0 +1,15 @@
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\bin\Debug\net6.0\7thclass.exe
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\bin\Debug\net6.0\7thclass.deps.json
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\bin\Debug\net6.0\7thclass.runtimeconfig.json
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\bin\Debug\net6.0\7thclass.dll
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\bin\Debug\net6.0\7thclass.pdb
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.csproj.AssemblyReference.cache
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.AssemblyInfoInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.AssemblyInfo.cs
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.csproj.CoreCompileInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.dll
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\refint\7thclass.dll
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.pdb
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\7thclass.genruntimeconfig.cache
+C:\Users\ACTIVE\Desktop\aditi\7thclass\7thclass\obj\Debug\net6.0\ref\7thclass.dll

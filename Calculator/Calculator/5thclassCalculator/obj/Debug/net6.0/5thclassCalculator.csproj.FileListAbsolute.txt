@@ -1,0 +1,15 @@
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\bin\Debug\net6.0\5thclassCalculator.exe
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\bin\Debug\net6.0\5thclassCalculator.deps.json
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\bin\Debug\net6.0\5thclassCalculator.runtimeconfig.json
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\bin\Debug\net6.0\5thclassCalculator.dll
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\bin\Debug\net6.0\5thclassCalculator.pdb
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.csproj.AssemblyReference.cache
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.AssemblyInfoInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.AssemblyInfo.cs
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.dll
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\refint\5thclassCalculator.dll
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.pdb
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\5thclassCalculator.genruntimeconfig.cache
+C:\Users\ACTIVE\Desktop\aditi\5thclassCalculator\5thclassCalculator\obj\Debug\net6.0\ref\5thclassCalculator.dll

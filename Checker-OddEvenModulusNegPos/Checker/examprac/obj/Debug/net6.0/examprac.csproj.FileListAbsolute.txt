@@ -1,0 +1,15 @@
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\bin\Debug\net6.0\examprac.exe
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\bin\Debug\net6.0\examprac.deps.json
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\bin\Debug\net6.0\examprac.runtimeconfig.json
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\bin\Debug\net6.0\examprac.dll
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\bin\Debug\net6.0\examprac.pdb
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.csproj.AssemblyReference.cache
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.AssemblyInfoInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.AssemblyInfo.cs
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.csproj.CoreCompileInputs.cache
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.dll
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\refint\examprac.dll
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.pdb
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\examprac.genruntimeconfig.cache
+C:\Users\ACTIVE\Desktop\aditi\examprac\examprac\obj\Debug\net6.0\ref\examprac.dll
